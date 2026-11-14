@@ -1,4 +1,6 @@
 # Telco Customer Churn Analysis
+# Here is the link of Project
+https://github.com/Jubayer-jm/telco-customer-churn-analysis/blob/main/01_Telco_Data_Analysis.ipynb
 
 ## Project Overview
 
